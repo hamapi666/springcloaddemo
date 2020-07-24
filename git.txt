@@ -1,0 +1,7 @@
+git查看邮箱，用户名
+git config user.name/email
+
+git config --global user.name "zhangsan(新的用户名)"
+git config --global user.email "123456@qq.com(新的邮箱)"
+git config --global user.password "123456(新的密码)"
+————————————————
